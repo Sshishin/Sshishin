@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a Frontend Developer working in Moscow, Russia.
+
+⚙️ I use daily: .js, .html, .css, .svg, .psd, .ai
+💬 Ask me about design, development, sales, business
+📫 Reach me: t.me/shishinse
+
 <!--
 **Sshishin/Sshishin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
