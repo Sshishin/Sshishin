@@ -2,8 +2,8 @@
 
 I'm a Frontend Developer working in Moscow, Russia.
 
-⚙️ I use daily: .js, .html, .css, .svg, .psd, .ai
-💬 Ask me about design, development, sales, business
+⚙️ I use daily: .js, .html, .css, .svg, .psd, .ai  
+💬 Ask me about design, development, sales, business  
 📫 Reach me: t.me/shishinse
 
 <!--
