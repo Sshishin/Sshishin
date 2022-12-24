@@ -8,6 +8,7 @@ I'm a Frontend Developer working in Moscow, Russia.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sshishin&theme=buefy)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshishin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
