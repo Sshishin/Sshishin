@@ -6,6 +6,8 @@ I'm a Frontend Developer working in Moscow, Russia.
 💬 Ask me about design, development, sales, business  
 📫 Reach me: t.me/shishinse
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sshishin&theme=buefy)](https://git.io/streak-stats)
+
 <!--
 **Sshishin/Sshishin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
